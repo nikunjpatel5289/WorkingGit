@@ -1,8 +1,5 @@
 Hello Crete Test.txt Time-> 2:41 pm 29 JAN
-<<<<<<< HEAD
 This Change Apply In DEV2
 Hello World
-=======
 This Change Apply In DEV1
 Hello Team
->>>>>>> d6da2ad1b1d8425c608431fc75c95274c50054f0
