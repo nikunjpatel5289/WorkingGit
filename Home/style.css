@@ -5,6 +5,10 @@ section {
   flex-direction: column;
 }
 button {
-  margin-top: 10px;
-  background-color: bisque;
+  background-color: rgb(224, 101, 70);
+  border-radius: 5px;
+  color: aquamarine;
+  font-family: 'Segoe UI';
+  cursor: pointer;
+  padding: 5px 10px;
 }
