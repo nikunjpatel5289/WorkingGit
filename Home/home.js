@@ -1,3 +1,3 @@
 function greet() {
-    console.log("Hello From Home");
+    alert("Hello World");
 }
