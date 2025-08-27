@@ -1,0 +1,14 @@
+section {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+button {
+  background-color: rgb(224, 101, 70);
+  border-radius: 5px;
+  color: aquamarine;
+  font-family: 'Segoe UI';
+  cursor: pointer;
+  padding: 5px 10px;
+}
