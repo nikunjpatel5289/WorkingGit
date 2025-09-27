@@ -4,6 +4,7 @@ section {
   justify-content: center;
   flex-direction: column;
 }
+
 button {
   background-color: rgb(224, 101, 70);
   border-radius: 5px;
